@@ -1,0 +1,64 @@
+<b>Custom error:</b> [1024] Entry not done
+ Error on line 42 in C:\wamp64\www\OOP2\admin\forgotPassword\newPassword.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 87 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [8] Undefined index: username
+ Error on line 110 in C:\wamp64\www\OOP2\includes\header.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] include_once(C:\wamp64\www\OOP2\classes\categories.class.php): failed to open stream: No such file or directory
+ Error on line 5 in C:\wamp64\www\training\OOP2\includes\header.php<br>
+<b>Custom error:</b> [2] include_once(C:/wamp64/www/OOP2/classes/categories.class.php): failed to open stream: No such file or directory
+ Error on line 5 in C:\wamp64\www\training\OOP2\includes\header.php<br>
+<b>Custom error:</b> [2] include_once(C:/wamp64/www/OOP2/classes/categories.class.php): failed to open stream: No such file or directory
+ Error on line 5 in C:\wamp64\www\training\OOP2\includes\header.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>
+<b>Custom error:</b> [2] Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP)
+ Error on line 3 in C:\wamp64\www\training\OOP2\includes\footer.php<br>

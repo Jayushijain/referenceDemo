@@ -1,0 +1,1 @@
+<b>Custom error:</b> [1024] Entry not done<br> Error on line 42 in C:\wamp64\www\OOP2\admin\forgotPassword\newPassword.php<br>Error occured1024Error occured1024Entry not doneC:\wamp64\www\OOP2\admin\forgotPassword\newPassword.php42Error occured1024Entry not doneC:\wamp64\www\OOP2\admin\forgotPassword\newPassword.php42
